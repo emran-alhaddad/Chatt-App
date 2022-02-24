@@ -10,6 +10,7 @@
   "author": "Emran Al Haddad",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.3",
     "http": "^0.0.1-security",
     "moment": "^2.29.1",
