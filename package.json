@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.3",
+    "http": "^0.0.1-security",
     "moment": "^2.29.1",
     "socket.io": "^4.4.1"
   },
